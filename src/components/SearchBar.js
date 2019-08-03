@@ -31,7 +31,13 @@ export default SearchBar;
 
 // Stephengrider.github.io/playgrounds/
 
+// Solution 1 (bind)
+
 // class Car {
+// constructor() {
+//   this.drive = this.drive.bind(this);
+// }
+
 //   setDriveSound(sound){
 //     this.sound = sound;
 //   }
