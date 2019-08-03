@@ -3,11 +3,11 @@ import React from 'react';
 class SearchBar extends React.Component {
   state = { term: '' };
 
-  onFormSubmit(event) {
+  onFormSubmit = event => {
     event.preventDefault();
 
     console.log(this.state.term);
-  }
+  };
 
   render() {
     return (
@@ -28,28 +28,3 @@ class SearchBar extends React.Component {
 }
 
 export default SearchBar;
-
-// Stephengrider.github.io/playgrounds/
-
-// Solution 1 (bind)
-
-// class Car {
-// constructor() {
-//   this.drive = this.drive.bind(this);
-// }
-
-//   setDriveSound(sound){
-//     this.sound = sound;
-//   }
-
-//   drive() {
-//     return this.sound;
-//   }
-// }
-
-// const car = new Car();
-// car.setDriveSound('vroom');
-
-// const drive = car.drive;
-
-// drive()
