@@ -43,4 +43,10 @@ export default SearchBar;
 
 // const car = new Car();
 // car.setDriveSound('vroom');
-// car.drive();
+
+// const truck = {
+//   sound: 'putputput',
+//   driveMyTruck: car.drive
+// }
+
+// truck.driveMyTruck()
