@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Modern_React_with_Redux_Pics-Stephen-/static/css/main.0c15656a.chunk.css",
-    "main.js": "/Modern_React_with_Redux_Pics-Stephen-/static/js/main.eb207e83.chunk.js",
-    "main.js.map": "/Modern_React_with_Redux_Pics-Stephen-/static/js/main.eb207e83.chunk.js.map",
-    "runtime~main.js": "/Modern_React_with_Redux_Pics-Stephen-/static/js/runtime~main.f7789f25.js",
-    "runtime~main.js.map": "/Modern_React_with_Redux_Pics-Stephen-/static/js/runtime~main.f7789f25.js.map",
-    "static/js/2.f0586cbf.chunk.js": "/Modern_React_with_Redux_Pics-Stephen-/static/js/2.f0586cbf.chunk.js",
-    "static/js/2.f0586cbf.chunk.js.map": "/Modern_React_with_Redux_Pics-Stephen-/static/js/2.f0586cbf.chunk.js.map",
-    "index.html": "/Modern_React_with_Redux_Pics-Stephen-/index.html",
-    "precache-manifest.77765693297b0d82a066178a6322966a.js": "/Modern_React_with_Redux_Pics-Stephen-/precache-manifest.77765693297b0d82a066178a6322966a.js",
-    "service-worker.js": "/Modern_React_with_Redux_Pics-Stephen-/service-worker.js",
-    "static/css/main.0c15656a.chunk.css.map": "/Modern_React_with_Redux_Pics-Stephen-/static/css/main.0c15656a.chunk.css.map"
+    "main.css": "/Stephen_Modern_React_with_Redux_Pics/static/css/main.0c15656a.chunk.css",
+    "main.js": "/Stephen_Modern_React_with_Redux_Pics/static/js/main.eb207e83.chunk.js",
+    "main.js.map": "/Stephen_Modern_React_with_Redux_Pics/static/js/main.eb207e83.chunk.js.map",
+    "runtime~main.js": "/Stephen_Modern_React_with_Redux_Pics/static/js/runtime~main.7b63a20a.js",
+    "runtime~main.js.map": "/Stephen_Modern_React_with_Redux_Pics/static/js/runtime~main.7b63a20a.js.map",
+    "static/js/2.f0586cbf.chunk.js": "/Stephen_Modern_React_with_Redux_Pics/static/js/2.f0586cbf.chunk.js",
+    "static/js/2.f0586cbf.chunk.js.map": "/Stephen_Modern_React_with_Redux_Pics/static/js/2.f0586cbf.chunk.js.map",
+    "index.html": "/Stephen_Modern_React_with_Redux_Pics/index.html",
+    "precache-manifest.16072a70de1d9fa43210ed1dd93a1b21.js": "/Stephen_Modern_React_with_Redux_Pics/precache-manifest.16072a70de1d9fa43210ed1dd93a1b21.js",
+    "service-worker.js": "/Stephen_Modern_React_with_Redux_Pics/service-worker.js",
+    "static/css/main.0c15656a.chunk.css.map": "/Stephen_Modern_React_with_Redux_Pics/static/css/main.0c15656a.chunk.css.map"
   }
 }
