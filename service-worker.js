@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Stephen_Modern_React_with_Redux_Pics/precache-manifest.16072a70de1d9fa43210ed1dd93a1b21.js"
+  "/Stephen_Modern_React_with_Redux_Pics/precache-manifest.c1629f32f397c2e3adef1bca979a4ea7.js"
 );
 
 self.addEventListener('message', (event) => {
@@ -35,5 +35,5 @@ workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
 workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/Stephen_Modern_React_with_Redux_Pics/index.html"), {
   
-  blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
+  blacklist: [/^\/_/,/\/[^/?]+\.[^/]+$/],
 });
